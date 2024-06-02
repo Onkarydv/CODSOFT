@@ -22,7 +22,7 @@ int main()
         cout << "3.multiply(*)"<< endl;
 
         // take input from user f0r operation
-        cout << " Enter your choice (+,-,*,/):";
+        cout << "Enter your choice (+,-,*,/):";
         cin >> operation;
 
         // take input from user for number
